@@ -33,7 +33,7 @@
                     	<p><?php _e('Sorry, no posts matched your criteria.', 'lawyeria-lite'); ?></p>
                 	<?php endif; ?>
 				</div><!--/div #posts-->
-				<?php get_sidebar(); ?>
+				<!--<?php get_sidebar(); ?>-->
 			</div><!--/div .wrapper-->
 		</section><!--/section #content-->
 		<?php get_footer(); ?>
